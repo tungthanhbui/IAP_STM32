@@ -1,0 +1,9 @@
+main.c:78:5:main	40	static,ignoring_inline_asm
+main.c:131:5:_write	32	static
+main.c:142:6:SystemClock_Config	112	static
+main.c:188:13:MX_CRC_Init	8	static
+main.c:219:13:MX_USART2_UART_Init	8	static
+main.c:254:13:MX_USART3_UART_Init	8	static
+main.c:289:13:MX_GPIO_Init	48	static
+main.c:324:6:Error_Handler	8	static,ignoring_inline_asm
+main.c:335:6:bootloader_init	8	static
